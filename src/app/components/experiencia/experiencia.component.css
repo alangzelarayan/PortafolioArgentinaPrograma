@@ -1,0 +1,11 @@
+.row{
+    padding: 3px;
+    border-radius: 10%;
+    border: 4px solid blue;
+   
+    
+}
+p.row#hola{
+right: 45px;
+color:blue;
+}
